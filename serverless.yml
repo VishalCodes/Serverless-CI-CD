@@ -1,4 +1,4 @@
-service: aws-node
+service: basic-serverless-lambda
 
 provider:
   name: aws
